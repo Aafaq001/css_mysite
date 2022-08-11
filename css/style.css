@@ -1,0 +1,155 @@
+body{
+  font-family: 'Merriweather', serif;
+  text-align: center;
+  line-height: 2;
+}
+h1{
+  font-family: 'Sacramento', cursive;
+    font-size: 90px;
+    margin: 100px auto 0px auto;
+  color: #0AA1DD;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 36px;
+  color: #0AA1DD;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #0AA1DD;
+}
+p{
+  line-height: 2;
+}
+.navigation_bar{
+  background-color: #E8F9FD;
+  text-align: left;
+}
+.nav-img{
+  width: 100px;
+  position: relative;
+  left: 400px;
+  top:5px;
+}
+.nav-imgb{
+  width: 50%;
+  display: inline-block;
+}
+.nav-linkb{
+  display: inline-block;
+  width: 50%;
+  float: right;
+  text-align: center;
+}
+.nav-link{
+  position: relative;
+  margin:50px;
+  top: 40px;
+  color: #0AA1DD;
+}
+.top-div{
+  background-color: #E8F9FD;
+  position: relative;
+  padding-top: 75px;
+}
+.t-cld{
+  position: absolute;
+  right: 500px;
+  top: 100px;
+}
+.b-cld1{
+  position: absolute;
+  left: 400px;
+  top: 500px
+}
+.mountain{
+  height: 600px;
+  width: 1000px;
+}
+.profile-pic{
+  width: 15%;
+}
+.intro{
+  width: 30%;
+  margin: auto;
+  line-height: 2;
+}
+.skill-img1{
+  width: 25%;
+  float: left;
+  margin-right: 25px;
+  position: relative;
+  bottom: 50px;
+}
+.skill-img2{
+  width: 25%;
+  float: right;
+  position: relative;
+  bottom: 30px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 150px auto;
+  text-align: left;
+  line-height: 2;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #0AA1DD;
+  border-width: 8px;
+  width: 4%;
+  margin: 80px auto;
+}
+.contact-me{
+  padding-top: 50px;
+  padding-bottom: 50px;
+  line-height: 2;
+}
+.btn{
+  display:inline-block;
+  color: white;
+  height: 40px;
+  width: 150px;
+  border-radius: 3px;
+  background-color: #0AA1DD;
+}
+
+.bottom-container{
+  padding: 0px 0px 100px;
+  background-color: #0AA1DD;
+  color: white;
+}
+a{
+  text-decoration: none;
+  color: white;
+}
+
+a:hover{
+  color: #2155CD;
+}
+.footer-link{
+  position: relative;
+  top: 60px;
+  margin-left: 50px;
+}
+.copyright{
+position: relative;
+top: 100px;
+font-size: 0.75rem;
+margin-bottom: 40px;
+}
+.c-btn{
+  margin-top: 5px;
+}
+.btn:hover{
+  background-color: #2155CD;
+  color: #0AA1DD;
+}
+.footer{
+  width: 30%;
+  margin: auto;
+  line-height: 2;
+  padding-bottom: 30px;
+}
